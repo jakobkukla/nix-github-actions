@@ -5,8 +5,8 @@ let
   self = {
     githubPlatforms = {
       "x86_64-linux" = "ubuntu-26.04";
-      "x86_64-darwin" = "macos-13";
-      "aarch64-darwin" = "macos-14";
+      "x86_64-darwin" = "macos-26-intel";
+      "aarch64-darwin" = "macos-26";
       "aarch64-linux" = "ubuntu-26.04-arm";
     };
 
